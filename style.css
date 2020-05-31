@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'ProximaBlack';
+    src: url('https://www.careersourcecentralflorida.com/wp-content/themes/auxilia/lib/fonts/ProximaNova/ProximaNova-Black.otf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaExtraBold';
+    src: url('https://www.careersourcecentralflorida.com/wp-content/themes/auxilia/lib/fonts/ProximaNova/ProximaNova-Extrabold.otf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaBold';
+    src: url('https://www.careersourcecentralflorida.com/wp-content/themes/auxilia/lib/fonts/ProximaNova/ProximaNova-Bold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaRegular';
+    src: url('https://www.careersourcecentralflorida.com/wp-content/themes/auxilia/lib/fonts/ProximaNova/ProximaNova-Regular.otf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+.regular {
+    font-family: 'ProximaRegular';
+}
+.bold {
+    font-family: 'ProximaBold';
+}
+
+.extrabold {
+    font-family: 'ProximaExtraBold';
+}
+.black {
+    font-family: 'Proximablack';
+}
